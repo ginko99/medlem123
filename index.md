@@ -2,6 +2,9 @@
 
 Medlem123 hjelper deg med foreningens medlemmer. Vi håndterer innmelding, utmelding, fakturering, påminnelser, kreditering og masseutsending av kontingent, og så videre. De som har e-post sender vi på e-postfaktura, og de som ikke har e-post får brevfaktura - vi gjør alt!
 
+![banner_medlem123_1920px_hvorfor](https://user-images.githubusercontent.com/16479743/115975564-29b66a80-a566-11eb-9b51-e7f15c58db07.png)
+
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
