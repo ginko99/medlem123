@@ -4,6 +4,12 @@ Medlem123 hjelper deg med foreningens medlemmer. Vi håndterer innmelding, utmel
 
 ![banner_medlem123_1920px_hvorfor](https://user-images.githubusercontent.com/16479743/115975564-29b66a80-a566-11eb-9b51-e7f15c58db07.png)
 
+## Om oss
+KLOPP AS (996 385 272 MVA) er et norsk konsulentselskap som selger og utvikler Regweb medlemssystem, Likepersonslogg og XReg.
+
+![banner_medlem123_1920px_hvordan](https://user-images.githubusercontent.com/16479743/115975623-8e71c500-a566-11eb-89e3-54b2e2463871.png)
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
